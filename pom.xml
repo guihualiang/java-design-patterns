@@ -143,6 +143,7 @@
         <module>extension-objects</module>
         <module>marker</module>
         <module>cqrs</module>
+        <module>data-transfer-object</module>
 
     </modules>
 
@@ -465,6 +466,7 @@
                         <param>abstract-factory</param>
                         <param>builder</param>
                         <param>prototype</param>
+                        <param>adapter</param>
                     </skipForProjects>
                 </configuration>
             </plugin>
